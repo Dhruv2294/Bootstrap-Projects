@@ -1,0 +1,71 @@
+.carousel-caption{
+    height: 55vh;
+    width: 100wh;
+}
+.bi-shield-lock-fill{
+    height: 6rem;
+    width: 6rem;
+    margin-top: 10px;
+}
+.text1{
+    height: 250px;
+    width: 250px;
+    margin-left: 7%;
+    margin-top: -40%;
+    border-radius: 5%;
+    background-color: rgba(252, 187, 67, 0.778);
+}
+.fa-book-open ,.fa-sketch,.fa-atom,.fa-connectdevelop{
+    font-size: 50px;
+    margin-top: 15%;
+    margin-left: 40%;
+    color: white;
+}
+.txt{
+    font-size: 20px;
+    font-weight: bolder;
+    text-align: center;
+    color: white;
+}
+.text2{
+    height: 250px;
+    width: 250px;
+    margin-left: 7%;
+    border-radius: 5%;
+    /* margin-top: 40%; */
+    background-color: rgba(67, 132, 252, 0.778);
+}
+.img-1{
+    margin-top: -45%;
+    margin-left: 2%;
+}
+.ar4{
+    margin-left: 3%;
+}
+.text3{
+    height: 250px;
+    width: 250px;
+    margin-left: 7%;
+    margin-top: -40%;
+    border-radius: 5%;
+    background-color: rgb(122, 67, 252,0.778);
+}
+.text4{
+    height: 250px;
+    width: 250px;
+    margin-left: 10%;
+    border-radius: 5%;
+    /* margin-top: 40%; */
+    background-color: rgb(12, 172, 118,0.778);
+}
+.ar3{
+    margin-left: 5%;
+    margin-top: -50%;
+}
+
+@media screen and (max-width : 900px) {
+    .none{
+        display: none;
+    }
+    
+}

@@ -1,0 +1,16 @@
+.margin{
+    margin-right: 350px;
+    font-size: 20px;
+}
+.bi-basket-fill{
+    margin-right: 50px;
+    cursor: pointer;
+}
+.img-fluid{
+    margin-left: 200px;
+    width: 1000px;
+}
+.zz{
+    display: flex;
+    justify-content: space-evenly;
+}
